@@ -32,9 +32,6 @@ console.log(data);
   countriesContainer.style.opacity = 1;
 });
 };
-
-
-
 getCountryData('germany');
 getCountryData('usa');
 getCountryData('australia');
